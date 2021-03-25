@@ -15,10 +15,10 @@ router.get('/config', (req, res) => {
     config = {
         status: true,
         result: {
-            prefix : '/',
-            namabot: 'ZhirrrBot',
-            namaowner: 'Zhirrr',
-            instagram: 'zhirr_ajalah',
+            prefix : 'Q',
+            namabot: 'AD-Bot',
+            namaowner: 'ADUL ALHY',
+            instagram: 'adulalhy2',
             youtube : 'Gak Punya'
         }
     }
