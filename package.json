@@ -1,7 +1,7 @@
 {
-  "name": "api-zhirrr",
+  "name": "Ad-api",
   "version": "1.1.0",
-  "description": "My Rest Api Projectttttt",
+  "description": "My Frist Rest Api Project",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -17,7 +17,7 @@
     "rest",
     "api"
   ],
-  "author": "Zhirrr",
+  "author": "Adul Alhy",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Zhirrr/Zhirrr-Api/issues"
